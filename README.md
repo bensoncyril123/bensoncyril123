@@ -33,58 +33,37 @@ I build things that matter with data — from clinical survival models to produc
 
 ### 🛠️ Tech Stack
 
-**Languages & Statistical Tools**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-0076BD?style=for-the-badge&logo=sas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Machine Learning & Deep Learning**
-
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-2B9348?style=for-the-badge&logo=lightgbm&logoColor=white)
-
-**Biostatistics & Analytics**
-
 ![Lifelines](https://img.shields.io/badge/Lifelines-Survival_Analysis-4A90E2?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-FF6B6B?style=for-the-badge)
-![UMAP](https://img.shields.io/badge/UMAP-Dimensionality_Reduction-9B59B6?style=for-the-badge)
-![Bayesian](https://img.shields.io/badge/Bayesian_Inference-E67E22?style=for-the-badge)
-
-**Data & Visualisation**
-
+![UMAP](https://img.shields.io/badge/UMAP-9B59B6?style=for-the-badge)
+![Bayesian Inference](https://img.shields.io/badge/Bayesian_Inference-E67E22?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Statistical Methods & Tools**
-
-![Survival Analysis](https://img.shields.io/badge/Survival_Analysis-Cox_PH_%26_KM-4A90E2?style=for-the-badge)
-![Mixed Effects](https://img.shields.io/badge/Mixed_Effects_Models-GLMM-6C3483?style=for-the-badge)
-![Bayesian MCMC](https://img.shields.io/badge/Bayesian_MCMC-brms_%26_rstan-E74C3C?style=for-the-badge)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-Chi²_ANOVA_KW-27AE60?style=for-the-badge)
-![Power Analysis](https://img.shields.io/badge/Power_Analysis_%26_Sample_Size-2C3E50?style=for-the-badge)
-![Causal Inference](https://img.shields.io/badge/Causal_Inference-DiD_%26_IV-8E44AD?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/Time_Series-ARIMA_Prophet-E67E22?style=for-the-badge)
-![Clinical Trials](https://img.shields.io/badge/Clinical_Trials-RCT_%26_SAPs-1ABC9C?style=for-the-badge)
-
-**Statistical Software**
-
+![Survival Analysis](https://img.shields.io/badge/Survival_Analysis-4A90E2?style=for-the-badge)
+![Mixed Effects](https://img.shields.io/badge/Mixed_Effects_Models-6C3483?style=for-the-badge)
+![Bayesian MCMC](https://img.shields.io/badge/Bayesian_MCMC-E74C3C?style=for-the-badge)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-27AE60?style=for-the-badge)
+![Power Analysis](https://img.shields.io/badge/Power_Analysis-2C3E50?style=for-the-badge)
+![Causal Inference](https://img.shields.io/badge/Causal_Inference-8E44AD?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time_Series-E67E22?style=for-the-badge)
+![Clinical Trials](https://img.shields.io/badge/Clinical_Trials-1ABC9C?style=for-the-badge)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A5276?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-**Cloud & MLOps**
-
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -92,15 +71,13 @@ I build things that matter with data — from clinical survival models to produc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
-**Dev Tools & Environments**
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
