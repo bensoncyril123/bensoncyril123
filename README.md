@@ -23,6 +23,19 @@ I build things that matter with data — from clinical survival models to produc
 
 ---
 
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=About.me&logoColor=white)](https://bensoncyril123.github.io/portfolio-website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyrilbenson)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanaboab@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bensoncyril123)
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages & Statistical Tools**
@@ -105,19 +118,6 @@ I build things that matter with data — from clinical survival models to produc
 | [🔬 Survival Analysis — Primary Biliary Cirrhosis](https://github.com/bensoncyril123/survival-efficacy-analysis) | Kaplan-Meier, Cox PH & Weibull AFT models for treatment efficacy evaluation | SAS, Lifelines |
 | [🦠 Breast Cancer Classification](https://github.com/bensoncyril123/breast-cancer-analysis) | SVM achieves 98.25% accuracy on FNA image data across 5 classifiers | Python, Scikit-learn |
 | [🌿 Air Quality Analysis — R Shiny](https://github.com/bensoncyril123/air-quality-analysis) | Interactive dashboard for PM2.5 analysis across US & Indian cities | R, Shiny, ggplot2 |
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=About.me&logoColor=white)](https://bensoncyril123.github.io/portfolio-website)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyrilbenson)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanaboab@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bensoncyril123)
-
-</div>
 
 ---
 
