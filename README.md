@@ -15,9 +15,7 @@ I build things that matter with data — from clinical survival models to produc
 - 🔭 Currently building at the intersection of **clinical AI, causal inference, and large-scale ML systems**
 - 🚀 Open to collaborating on **machine learning, biostatistics, healthcare AI, and open-source data science**
 - 📡 Deepening expertise in **Deep Learning, Generative AI, LLMs, and Causal Inference**
-- 🧠 I think in models — Bayesian hierarchical, frequentist GLMs, Cox proportional hazards, mixed-effects, tree-based ensembles — and know exactly when and why to use each one
 - 📐 Fluent in the full statistical workflow: experimental design, power analysis, hypothesis testing, effect size estimation, multiple comparisons correction, and reproducible reporting
-- 📊 I don't just run models — I interrogate assumptions, validate diagnostics, and communicate uncertainty honestly
 - 💬 Ask me about **statistical inference, ML in healthcare, survival analysis, or building end-to-end data pipelines**
 - 🤝 Always down to connect with people serious about data, science, and impact
 
