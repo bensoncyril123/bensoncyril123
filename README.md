@@ -81,18 +81,6 @@ I build things that matter with data — from clinical survival models to produc
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🏥 Healthcare Analytics Pipeline](https://github.com/bensoncyril123/healthcare-dashboard) | End-to-end clinical data science: EDA, Chi-square, Cox PH, Random Forest, SHAP & UMAP on 54,966 records | Python, Lifelines, XGBoost, SHAP |
-| [🫁 IPF Progression Prediction](https://bensoncyril123.github.io/portfolio-website/#projects) | ML classification on high-dimensional proteomic data (1,129 features) — Random Forest AUC 0.984 | Python, R, LASSO, Random Forest |
-| [🔬 Survival Analysis — Primary Biliary Cirrhosis](https://github.com/bensoncyril123/survival-efficacy-analysis) | Kaplan-Meier, Cox PH & Weibull AFT models for treatment efficacy evaluation | SAS, Lifelines |
-| [🦠 Breast Cancer Classification](https://github.com/bensoncyril123/breast-cancer-analysis) | SVM achieves 98.25% accuracy on FNA image data across 5 classifiers | Python, Scikit-learn |
-| [🌿 Air Quality Analysis — R Shiny](https://github.com/bensoncyril123/air-quality-analysis) | Interactive dashboard for PM2.5 analysis across US & Indian cities | R, Shiny, ggplot2 |
-
----
-
 <div align="center">
 
 *"Rigorous methodology, reproducible science, and models that actually generalise."*
