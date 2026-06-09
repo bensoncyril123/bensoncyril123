@@ -8,9 +8,9 @@
 
 ### 🧑‍💻 About Me
 
-- 👯 I'm looking to collaborate on machine learning, biostatistics, and open-source data science projects
-- 🤝 I'm looking to connect with people working at the intersection of healthcare and AI
-- 🌱 I'm currently deepening my expertise in Deep Learning, Generative AI, LLMs, and Causal Inference
+- 🚀 I'm looking to collaborate on machine learning, biostatistics, and open-source data science projects
+- 🤜 I'm looking to connect with people working at the intersection of healthcare and AI
+- 📡 I'm currently deepening my expertise in Deep Learning, Generative AI, LLMs, and Causal Inference
 - 💬 Ask me about anything — data science, statistics, survival analysis, or ML in healthcare
 - ⚡ Fun fact: I once spent 3 days debugging a Cox model only to realise the data was perfectly fine — the insight was the null result.
 - 🌍 Based in the USA
