@@ -8,13 +8,16 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 I'm looking to collaborate on machine learning, biostatistics, and open-source data science projects
-- 🤜 I'm looking to connect with people working at the intersection of healthcare and AI
-- 📡 I'm currently deepening my expertise in Deep Learning, Generative AI, LLMs, and Causal Inference
-- 💬 Ask me about anything — data science, statistics, survival analysis, or ML in healthcare
-- ⚡ Fun fact: I once spent 3 days debugging a Cox model only to realise the data was perfectly fine — the insight was the null result.
-- 🌍 Based in the USA
-- 🖥️ See my portfolio at [bensoncyril123.github.io/portfolio-website](https://bensoncyril123.github.io/portfolio-website)
+I build things that matter with data — from clinical survival models to production ML pipelines. I move fast, think rigorously, and ship work that holds up under scrutiny.
+
+- 🗽 Based in **New York, USA**
+- 🔭 Currently building at the intersection of **clinical AI, causal inference, and large-scale ML systems**
+- 🚀 Open to collaborating on **machine learning, biostatistics, healthcare AI, and open-source data science**
+- 📡 Deepening expertise in **Deep Learning, Generative AI, LLMs, and Causal Inference**
+- 🧠 I think in models — Bayesian, frequentist, survival, tree-based — and know when to use which
+- 💬 Ask me about **statistical inference, ML in healthcare, survival analysis, model explainability, or building end-to-end data pipelines**
+- 🤝 Always down to connect with people serious about data, science, and impact
+- 🖥️ Portfolio → [bensoncyril123.github.io/portfolio-website](https://bensoncyril123.github.io/portfolio-website)
 
 ---
 
@@ -50,6 +53,13 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+**Statistical Methods**
+
+![Survival Analysis](https://img.shields.io/badge/Survival_Analysis-Cox_PH_%26_KM-4A90E2?style=for-the-badge)
+![Mixed Effects](https://img.shields.io/badge/Mixed_Effects_Models-GLMM-6C3483?style=for-the-badge)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-Chi²_ANOVA_KW-27AE60?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time_Series-ARIMA_Prophet-E67E22?style=for-the-badge)
+
 **Cloud & MLOps**
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -57,6 +67,17 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+**Dev Tools & Environments**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
