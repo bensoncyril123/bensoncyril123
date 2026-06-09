@@ -8,12 +8,13 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Data Scientist & Biostatistician** with an M.S. in Statistics and 4+ years of experience building end-to-end ML systems, statistical frameworks, and clinical analytics pipelines across **healthcare, insurance, and research** domains.
-
-- 🎓 M.S. Statistics | B.S. Actuarial Science
-- 🔬 Deep expertise in **survival analysis, Bayesian inference, biostatistical modelling & NLP**
-- 📊 Passionate about rigorous methodology and translating complex statistical findings into actionable clinical insights
+- 👯 I'm looking to collaborate on machine learning, biostatistics, and open-source data science projects
+- 🤝 I'm looking to connect with people working at the intersection of healthcare and AI
+- 🌱 I'm currently deepening my expertise in Deep Learning, Generative AI, LLMs, and Causal Inference
+- 💬 Ask me about anything — data science, statistics, survival analysis, or ML in healthcare
+- ⚡ Fun fact: I once spent 3 days debugging a Cox model only to realise the data was perfectly fine — the insight was the null result.
 - 🌍 Based in the USA
+- 🖥️ See my portfolio at [bensoncyril123.github.io/portfolio-website](https://bensoncyril123.github.io/portfolio-website)
 
 ---
 
