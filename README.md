@@ -11,6 +11,7 @@
 I build things that matter with data — from clinical survival models to production ML pipelines. I move fast, think rigorously, and ship work that holds up under scrutiny.
 
 - 🗽 Based in **New York, USA**
+- 🖥️ Portfolio → [bensoncyril123.github.io/portfolio-website](https://bensoncyril123.github.io/portfolio-website)
 - 🔭 Currently building at the intersection of **clinical AI, causal inference, and large-scale ML systems**
 - 🚀 Open to collaborating on **machine learning, biostatistics, healthcare AI, and open-source data science**
 - 📡 Deepening expertise in **Deep Learning, Generative AI, LLMs, and Causal Inference**
@@ -19,7 +20,6 @@ I build things that matter with data — from clinical survival models to produc
 - 📊 I don't just run models — I interrogate assumptions, validate diagnostics, and communicate uncertainty honestly
 - 💬 Ask me about **statistical inference, ML in healthcare, survival analysis, model explainability, or building end-to-end data pipelines**
 - 🤝 Always down to connect with people serious about data, science, and impact
-- 🖥️ Portfolio → [bensoncyril123.github.io/portfolio-website](https://bensoncyril123.github.io/portfolio-website)
 
 ---
 
