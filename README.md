@@ -14,7 +14,10 @@ I build things that matter with data — from clinical survival models to produc
 - 🔭 Currently building at the intersection of **clinical AI, causal inference, and large-scale ML systems**
 - 🚀 Open to collaborating on **machine learning, biostatistics, healthcare AI, and open-source data science**
 - 📡 Deepening expertise in **Deep Learning, Generative AI, LLMs, and Causal Inference**
-- 🧠 I think in models — Bayesian, frequentist, survival, tree-based — and know when to use which
+- 🧠 I think in models — Bayesian hierarchical, frequentist GLMs, Cox proportional hazards, mixed-effects, tree-based ensembles — and know exactly when and why to use each one
+- 📐 Fluent in the full statistical workflow: experimental design, power analysis, hypothesis testing, effect size estimation, multiple comparisons correction, and reproducible reporting
+- 🔬 I've applied survival analysis (Kaplan-Meier, Cox PH, AFT), RNA-seq pipelines (DESeq2, scRNA-seq), and Bayesian MCMC (brms, rstan) in real research settings
+- 📊 I don't just run models — I interrogate assumptions, validate diagnostics, and communicate uncertainty honestly
 - 💬 Ask me about **statistical inference, ML in healthcare, survival analysis, model explainability, or building end-to-end data pipelines**
 - 🤝 Always down to connect with people serious about data, science, and impact
 - 🖥️ Portfolio → [bensoncyril123.github.io/portfolio-website](https://bensoncyril123.github.io/portfolio-website)
@@ -53,12 +56,25 @@ I build things that matter with data — from clinical survival models to produc
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Statistical Methods**
+**Statistical Methods & Tools**
 
 ![Survival Analysis](https://img.shields.io/badge/Survival_Analysis-Cox_PH_%26_KM-4A90E2?style=for-the-badge)
 ![Mixed Effects](https://img.shields.io/badge/Mixed_Effects_Models-GLMM-6C3483?style=for-the-badge)
+![Bayesian MCMC](https://img.shields.io/badge/Bayesian_MCMC-brms_%26_rstan-E74C3C?style=for-the-badge)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-Chi²_ANOVA_KW-27AE60?style=for-the-badge)
+![Power Analysis](https://img.shields.io/badge/Power_Analysis_%26_Sample_Size-2C3E50?style=for-the-badge)
+![Causal Inference](https://img.shields.io/badge/Causal_Inference-DiD_%26_IV-8E44AD?style=for-the-badge)
 ![Time Series](https://img.shields.io/badge/Time_Series-ARIMA_Prophet-E67E22?style=for-the-badge)
+![Clinical Trials](https://img.shields.io/badge/Clinical_Trials-RCT_%26_SAPs-1ABC9C?style=for-the-badge)
+
+**Statistical Software**
+
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1A5276?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Cloud & MLOps**
 
