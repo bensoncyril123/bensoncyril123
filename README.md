@@ -10,7 +10,6 @@
 
 I'm a **Data Scientist & Biostatistician** with an M.S. in Statistics and 4+ years of experience building end-to-end ML systems, statistical frameworks, and clinical analytics pipelines across **healthcare, insurance, and research** domains.
 
-- 🏥 Currently: **Senior Data Scientist** @ The Brooklyn Wellness Club — building health risk stratification models using XGBoost & Cox regression
 - 🎓 M.S. Statistics | B.S. Actuarial Science
 - 🔬 Deep expertise in **survival analysis, Bayesian inference, biostatistical modelling & NLP**
 - 📊 Passionate about rigorous methodology and translating complex statistical findings into actionable clinical insights
@@ -57,18 +56,6 @@ I'm a **Data Scientist & Biostatistician** with an M.S. in Statistics and 4+ yea
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Cyril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bensoncyril123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bensoncyril123&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
