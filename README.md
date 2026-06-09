@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Senior Data Scientist & Biostatistician** with an M.S. in Statistics and 4+ years of experience building end-to-end ML systems, statistical frameworks, and clinical analytics pipelines across **healthcare, insurance, and research** domains.
+I'm a **Data Scientist & Biostatistician** with an M.S. in Statistics and 4+ years of experience building end-to-end ML systems, statistical frameworks, and clinical analytics pipelines across **healthcare, insurance, and research** domains.
 
 - 🏥 Currently: **Senior Data Scientist** @ The Brooklyn Wellness Club — building health risk stratification models using XGBoost & Cox regression
 - 🎓 M.S. Statistics | B.S. Actuarial Science
