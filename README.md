@@ -79,6 +79,27 @@ I build things that matter with data — from clinical survival models to produc
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bensoncyril123&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensoncyril123&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bensoncyril123&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
 <div align="center">
 
 *"Rigorous methodology, reproducible science, and models that actually generalise."*
