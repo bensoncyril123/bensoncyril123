@@ -90,16 +90,6 @@ I build things that matter with data — from clinical survival models to produc
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bensoncyril123&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 <div align="center">
 
 *"Rigorous methodology, reproducible science, and models that actually generalise."*
