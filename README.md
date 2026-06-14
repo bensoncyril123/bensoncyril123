@@ -84,7 +84,6 @@ I build things that matter with data — from clinical survival models to produc
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bensoncyril123&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensoncyril123&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
